@@ -3,15 +3,7 @@
 - 📝 博客: [blogs.idevlab.cn](https://blogs.idevlab.cn)
 - 🌐 主页: [IchenDEV.github.io](https://github.com/IchenDEV/IchenDEV.github.io)
 
-## 🎯 最近在折腾
-
-- 🤖 让 AI agents 不只会聊天，还能更安全地接工具、调服务、真的干活
-- 🍎 把常用的 LLM 工作流做进顺手的 macOS 原生体验
-- 🔗 把云端平台和本地开发环境缝成一套 local-first 的工作台
-
-## 🚀 这一年在折腾的项目
-
-这些是我过去 12 个月里持续在更、也最想摆上台面的公开项目：
+## 🚀 最近在折腾的项目
 
 ### 🍎 原生 macOS 应用
 
