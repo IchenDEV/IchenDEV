@@ -27,6 +27,10 @@
 - [agentalk](https://github.com/IchenDEV/agentalk) - 面向 AI agents 的 `curl`，把 A2A 协议带进终端。
 - [LarkFS](https://github.com/IchenDEV/larkfs) - 通过 FUSE 或 WebDAV 将飞书/Lark 挂载为本地文件系统，像操作本地文件一样处理云端资源。
 
+### 多 Agent 实验
+
+- [Town Sandbox](https://github.com/IchenDEV/town-sandbox) - 一个多 AI agents 在虚拟小镇中生活、工作、交易与社交的模拟世界，包含地图可视化、对话展示、实时事件流与经济系统。
+
 ### 知识与技能系统
 
 - [superman](https://github.com/IchenDEV/superman) - 一个持续演进的视角型 Agent Skills 库，把顶级思想家的思维框架蒸馏成可复用的认知工具。
