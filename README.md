@@ -1,5 +1,7 @@
 # 陈力 / idevlab
 
+hacker & creator
+
 - 📝 博客: [blogs.idevlab.cn](https://blogs.idevlab.cn)
 - 🌐 主页: [IchenDEV.github.io](https://github.com/IchenDEV/IchenDEV.github.io)
 
