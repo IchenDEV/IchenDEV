@@ -27,6 +27,7 @@
 ### 🏘️ 多 Agent 实验
 
 - 🧑‍🤝‍🧑 [Town Sandbox](https://github.com/IchenDEV/town-sandbox) - 一个多 AI agents 在虚拟小镇中生活、工作、交易与社交的模拟世界，包含地图可视化、对话展示、实时事件流与经济系统。
+- 🏮 [圆桌 Skill 云](https://github.com/IchenDEV/roundtable-skill-cloud/tree/main) - 面向思辨与写作场景的多 Agent Web 应用，让不同人物视角同席论辩，并由主持收束为结构化结案。
 
 ### 🧠 知识与技能系统
 
