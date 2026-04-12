@@ -1,7 +1,5 @@
 # 陈立 / idevlab
 
-专注于本地优先的 AI 工具、Agent 基础设施，以及原生 macOS 软件。
-
 - 📝 博客: [blogs.idevlab.cn](https://blogs.idevlab.cn)
 - 🌐 主页: [IchenDEV.github.io](https://github.com/IchenDEV/IchenDEV.github.io)
 
