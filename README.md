@@ -11,6 +11,7 @@ hacker & creator
 
 - 🎙️ [OpenType](https://github.com/IchenDEV/opentype) - 把 AI 语音输入塞进 macOS 菜单栏；按下说话、松开出字，还能接 OCR 和 LLM 做后处理。
 - 🧰 [SkillsUI](https://github.com/IchenDEV/skills-ui) - 给 `skills.sh` 做了个原生 macOS 管理器，浏览、安装、整理不同 coding agents 的技能包更顺手。
+- 🔔 [Mind Keeper](https://github.com/IchenDEV/mind-keeper) - 一个 macOS 上的 AI 通知分拣助手，盯着通知中心、帮你判断轻重缓急，把该做的事从消息堆里捞出来。
 
 ### 🧩 Agent 基础设施
 
