@@ -17,7 +17,6 @@
 
 - 🎙️ [OpenType](https://github.com/IchenDEV/opentype) - 面向 macOS 菜单栏的本地 AI 语音输入工具，结合端侧 ASR、屏幕 OCR、LLM 文本整理与语音指令工作流。
 - 🧰 [SkillsUI](https://github.com/IchenDEV/skills-ui) - 原生 macOS 应用，用来浏览、安装和管理不同 coding agents 的 `skills.sh` 技能包。
-- 🔌 [Skill MCP Manager](https://github.com/IchenDEV/skill-mcp-mgr) - 面向 Codex、Claude Code、Cursor、Gemini CLI 等平台的 Agent Skills 与 MCP 服务器统一管理台。
 
 ### 🧩 Agent 基础设施
 
