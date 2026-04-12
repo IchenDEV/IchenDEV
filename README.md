@@ -16,6 +16,7 @@ hacker & creator
 
 - 🔐 [Passka](https://github.com/IchenDEV/passka) - 想办法让 agent 用密钥这件事更靠谱：长期凭证留在 Keychain，agent 只拿短期 lease，访问全程可审计。
 - ⚡ [agentalk](https://github.com/IchenDEV/agentalk) - 把 `curl` 那种直给手感带到 agent world，让 A2A 协议在终端里也变得顺手。
+- ⛏️ [AI Mine](https://github.com/IchenDEV/aimine) - 一个 AI Agent 探索平台，把 RAG、知识图谱、记忆、技能和 MCP 串在一起，顺手拿来试 ReAct、Plan 和多专家协作这套玩法。
 - 📁 [LarkFS](https://github.com/IchenDEV/larkfs) - 把飞书/Lark 变成本地文件系统，云端文档、消息和资源终于也能像文件一样被折腾。
 
 ### 🏘️ 多 Agent 实验
