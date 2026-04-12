@@ -24,6 +24,10 @@ hacker & creator
 - 🧑‍🤝‍🧑 [Town Sandbox](https://github.com/IchenDEV/town-sandbox) - 把一群 AI agents 丢进虚拟小镇里，让他们自己生活、工作、交易、聊天，顺手把整个过程可视化出来。
 - 🏮 [圆桌 Skill 云](https://github.com/IchenDEV/roundtable-skill-cloud/tree/main) - 请不同人物视角同席开聊，既能辩论也能共创，最后再由主持人慢慢收束成一份结案。
 
+### 🌌 体验实验
+
+- 🎭 [Mindscape](https://github.com/IchenDEV/mindscape) - 一个沉浸式情绪景观生成器，偏向氛围、情绪和交互体验，把抽象感受做成可以进入的数字场景。
+
 ### 🧠 知识与技能系统
 
 - 🦸 [superman](https://github.com/IchenDEV/superman) - 一个持续扩建的视角型 Agent Skills 库，把顶级人物的思维方式蒸馏成能直接拿来用的认知插件。
