@@ -1,4 +1,4 @@
-# 陈立 / idevlab
+# 陈力 / idevlab
 
 - 📝 博客: [blogs.idevlab.cn](https://blogs.idevlab.cn)
 - 🌐 主页: [IchenDEV.github.io](https://github.com/IchenDEV/IchenDEV.github.io)
