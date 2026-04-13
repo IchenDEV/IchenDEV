@@ -40,3 +40,15 @@ hacker & creator
   <img style="max-width: 48%;" src="https://github-readme-stats.vercel.app/api?username=IchenDEV&show_icons=true&count_private=true&hide=contribs" alt="GitHub Stats">
   <img style="max-width: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IchenDEV&layout=compact" alt="Most Used Language">
 </a>
+
+## 🛤 来时的路（Early Works）
+
+- 🎮 [MinesweeperS](https://github.com/IchenDEV/MinesweeperS) — 最早上架到微软商店的桌面小游戏之一，作为我最早的产品化尝试之一。
+- 💬 [JXH-QQBot](https://github.com/IchenDEV/JXH-QQBot) — 早期的 QQ 机器人实验，偏即时通讯场景下的交互与自动化探索。
+- 💻 [XPS9570-OC](https://github.com/IchenDEV/XPS9570-OC) — Dell XPS 9570 的 OpenCore 配置。
+- 🧠 [os-pintos](https://github.com/IchenDEV/os-pintos) — 操作系统课程设计项目，属于底层系统能力的早期沉淀。
+- 🧪 [docker-pintos-m1](https://github.com/IchenDEV/docker-pintos-m1) — 配合课程作业的 Pintos 环境搭建，记录第一代 M1 macOS 下的特殊开发配置。
+- 🗂️ [ExplorerMax](https://github.com/IchenDEV/ExplorerMax) — 一款早期的文件资源浏览器，用于增强 Windows 文件管理体验。
+- 🎲 [MTGameH5-Demo](https://github.com/IchenDEV/MTGameH5-Demo) — 养成类小游戏 Demo，偏前端产品玩法与交互的早期尝试。
+- ⚖️ [LarkDocAddon-PhoenixWrighAceAttorney](https://github.com/IchenDEV/LarkDocAddon-PhoenixWrighAceAttorney) — 飞书端的逆转裁判小游戏，能在飞书里直接玩。
+- 🧰 [Dream_CPP](https://github.com/IchenDEV/Dream_CPP) — 基于 Windows UWP 的轻量级 C++ IDE，早期用于本地开发与学习实验。
