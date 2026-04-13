@@ -44,11 +44,11 @@ hacker & creator
 ## 🛤 来时的路（Early Works）
 
 - 🎮 [MinesweeperS](https://github.com/IchenDEV/MinesweeperS)（2017） — 最早上架到微软商店的桌面小游戏之一，作为我最早的产品化尝试之一。
+- 🗂️ [ExplorerMax](https://github.com/IchenDEV/ExplorerMax)（2018） — 一款早期的文件资源浏览器，用于增强 Windows 文件管理体验。
+- 🧰 [Dream_CPP](https://github.com/IchenDEV/Dream_CPP)（2018） — 基于 Windows UWP 的轻量级 C++ IDE，早期用于本地开发与学习实验。
+- 🎲 [MTGameH5-Demo](https://github.com/IchenDEV/MTGameH5-Demo)（2020） — 养成类小游戏 Demo，偏前端产品玩法与交互的早期尝试。
+- 🧠 [os-pintos](https://github.com/IchenDEV/os-pintos)（2020） — 操作系统课程设计项目，属于底层系统能力的早期沉淀。
 - 💬 [JXH-QQBot](https://github.com/IchenDEV/JXH-QQBot)（2020） — 早期的 QQ 机器人实验，偏即时通讯场景下的交互与自动化探索。
 - 💻 [XPS9570-OC](https://github.com/IchenDEV/XPS9570-OC)（2020） — Dell XPS 9570 的 OpenCore 配置。
-- 🧠 [os-pintos](https://github.com/IchenDEV/os-pintos)（2020） — 操作系统课程设计项目，属于底层系统能力的早期沉淀。
 - 🧪 [docker-pintos-m1](https://github.com/IchenDEV/docker-pintos-m1)（2020） — 配合课程作业的 Pintos 环境搭建，记录第一代 M1 macOS 下的特殊开发配置。
-- 🗂️ [ExplorerMax](https://github.com/IchenDEV/ExplorerMax)（2018） — 一款早期的文件资源浏览器，用于增强 Windows 文件管理体验。
-- 🎲 [MTGameH5-Demo](https://github.com/IchenDEV/MTGameH5-Demo)（2020） — 养成类小游戏 Demo，偏前端产品玩法与交互的早期尝试。
 - ⚖️ [LarkDocAddon-PhoenixWrighAceAttorney](https://github.com/IchenDEV/LarkDocAddon-PhoenixWrighAceAttorney)（2023） — 飞书端的逆转裁判小游戏，能在飞书里直接玩。
-- 🧰 [Dream_CPP](https://github.com/IchenDEV/Dream_CPP)（2018） — 基于 Windows UWP 的轻量级 C++ IDE，早期用于本地开发与学习实验。
