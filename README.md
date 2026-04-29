@@ -1,4 +1,4 @@
-# 陈力 / idevlab
+# idevlab/IchenDEV
 
 hacker & creator
 
@@ -29,7 +29,7 @@ hacker & creator
 ### 🌌 体验实验
 
 - 🎙️ [VoiceCanvas](https://github.com/IchenDEV/voicecanvas) - 一个语音优先的图表工作台，把自然语言指令变成可验证的图结构更新，再用 Mermaid 画出来。
-- 🎭 [Mindscape](https://github.com/IchenDEV/mindscape) - 一个沉浸式情绪景观生成器，偏向氛围、情绪和交互体验，把抽象感受做成可以进入的数字场景。
+- 🎭 [Mindscape](https://github.com/IchenDEV/mindscape) - 一个虚拟世界，偏向氛围、情绪和交互体验，把抽象感受做成可以进入的数字场景。
 
 ### 🧠 知识与技能系统
 
