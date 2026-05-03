@@ -12,6 +12,8 @@ hacker & creator
 - 🎙️ [OpenType](https://github.com/IchenDEV/opentype) - 把 AI 语音输入塞进 macOS 菜单栏；按下说话、松开出字，还能接 OCR 和 LLM 做后处理。
 - 🧰 [SkillsUI](https://github.com/IchenDEV/skills-ui) - 给 `skills.sh` 做了个原生 macOS 管理器，浏览、安装、整理不同 coding agents 的技能包更顺手。
 - 🔔 [Mind Keeper](https://github.com/IchenDEV/mind-keeper) - 一个 macOS 上的 AI 通知分拣助手，盯着通知中心、帮你判断轻重缓急，把该做的事从消息堆里捞出来。
+- 🎧 [Podcast Transcript Studio](https://github.com/IchenDEV/podcast-transcript-studio) - 一个本地优先的播客转写工具，把订阅、下载、转写和整理串成一条流水线，所有数据都留在自己机器上。
+- 🗂️ [F5](https://github.com/IchenDEV/f5) - 一个本地 AI 工作台，跟 coding agents 对话、跟踪它们干了什么，每一段会话都以 Markdown 文件落到磁盘上。
 
 ### 🧩 Agent 基础设施
 
@@ -34,6 +36,7 @@ hacker & creator
 ### 🧠 知识与技能系统
 
 - 🦸 [superman](https://github.com/IchenDEV/superman) - 一个持续扩建的视角型 Agent Skills 库，把顶级人物的思维方式蒸馏成能直接拿来用的认知插件。
+- 📖 [cold-start-2-ai-book](https://github.com/IchenDEV/cold-start-2-ai-book) - 用 GPT 写一本书的实验，看模型能不能从冷启动一路写到一本可读的成稿。
 
 ## 📊 GitHub 概览
 
