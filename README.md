@@ -13,10 +13,11 @@ hacker & creator
 - 🧰 [SkillsUI](https://github.com/IchenDEV/skills-ui) - 给 `skills.sh` 做了个原生 macOS 管理器，浏览、安装、整理不同 coding agents 的技能包更顺手。
 - 🔔 [Mind Keeper](https://github.com/IchenDEV/mind-keeper) - 一个 macOS 上的 AI 通知分拣助手，盯着通知中心、帮你判断轻重缓急，把该做的事从消息堆里捞出来。
 - 🎧 [Podcast Transcript Studio](https://github.com/IchenDEV/podcast-transcript-studio) - 一个本地优先的播客转写工具，把订阅、下载、转写和整理串成一条流水线，所有数据都留在自己机器上。
-- 🗂️ [F5](https://github.com/IchenDEV/f5) - 一个本地 AI 工作台，跟 coding agents 对话、跟踪它们干了什么，每一段会话都以 Markdown 文件落到磁盘上。
+- 🗂️ [F5](https://github.com/IchenDEV/f5) - 一个本地 AI 工作台，用来跟 coding agents 对话、查看任务进展，并把每段会话保存成磁盘上的 Markdown 文件。
 
 ### 🧩 Agent 基础设施
 
+- 🖼️ [PetX](https://github.com/IchenDEV/petx) - Codex pet spritesheet atlas 的渲染框架，把同一套动画资源接到 Web、Canvas 和不同前端框架里复用。
 - 🔐 [Passka](https://github.com/IchenDEV/passka) - 想办法让 agent 用密钥这件事更靠谱：长期凭证留在 Keychain，agent 只拿短期 lease，访问全程可审计。
 - ⚡ [agentalk](https://github.com/IchenDEV/agentalk) - 把 `curl` 那种直给手感带到 agent world，让 A2A 协议在终端里也变得顺手。
 - ⛏️ [AI Mine](https://github.com/IchenDEV/aimine) - 一个 AI Agent 探索平台，把 RAG、知识图谱、记忆、技能和 MCP 串在一起，顺手拿来试 ReAct、Plan 和多专家协作这套玩法。
