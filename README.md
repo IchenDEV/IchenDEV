@@ -2,7 +2,7 @@
 
 hacker & creator
 
-- 📝 博客: [blogs.idevlab.cn](https://blogs.idevlab.cn)
+- 📝 博客: [blogs.idevlab.dev](https://blogs.idevlab.dev/)
 - 🌐 主页: [IchenDEV.github.io](https://github.com/IchenDEV/IchenDEV.github.io)
 
 ## 🚀 最近在折腾的项目
