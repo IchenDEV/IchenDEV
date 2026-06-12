@@ -7,6 +7,13 @@ hacker & creator
 
 ## 🚀 最近在折腾的项目
 
+### 🎮 一口气用 Fable 生成的小游戏和应用
+
+- 🕹️ [best-game](https://github.com/IchenDEV/best-game) - 单文件零依赖的霓虹竞技场生存射击游戏，有波次、Boss、成长构筑、存档、WebAudio 音效和合成 BGM。
+- 🏠 [room-design](https://github.com/IchenDEV/room-design) - 网页版室内设计工作台：2D 户型编辑、3D 实时渲染、第一人称漫游、家具素材库和 IndexedDB 自动保存。
+- 🪂 [pubg-clone](https://github.com/IchenDEV/pubg-clone) - Three.js + TypeScript 的浏览器大逃杀原型：跳伞、搜刮、AI 对战、缩圈、空投、载具和程序化地图。
+- 🗺️ [pokemon-clone](https://github.com/IchenDEV/pokemon-clone) - Game Boy 风格怪物收集 JRPG Web 原型，把地图探索、回合制战斗、本地存档和 Vite/TypeScript 实现串起来。
+
 ### 🍎 原生 macOS 应用
 
 - 🎙️ [OpenType](https://github.com/IchenDEV/opentype) - 把 AI 语音输入塞进 macOS 菜单栏；按下说话、松开出字，还能接 OCR 和 LLM 做后处理。
