@@ -14,8 +14,9 @@ hacker & creator
 - 🪂 [pubg-clone](https://github.com/IchenDEV/pubg-clone) - Three.js + TypeScript 的浏览器大逃杀原型：跳伞、搜刮、AI 对战、缩圈、空投、载具和程序化地图。
 - 🗺️ [pokemon-clone](https://github.com/IchenDEV/pokemon-clone) - Game Boy 风格怪物收集 JRPG Web 原型，把地图探索、回合制战斗、本地存档和 Vite/TypeScript 实现串起来。
 
-### 🍎 原生 macOS 应用
+### 🍎 macOS 与桌面应用
 
+- 🐾 [PetX Desktop](https://github.com/IchenDEV/petx-desktop) - 一只本地优先的跨平台桌面伙伴，用 Tauri 和 PetX React 把陪伴、照料、关系记忆、宠物发现与本地导入放进透明桌面窗口。
 - 🎙️ [OpenType](https://github.com/IchenDEV/opentype) - 把 AI 语音输入塞进 macOS 菜单栏；按下说话、松开出字，还能接 OCR 和 LLM 做后处理。
 - 🧰 [SkillsUI](https://github.com/IchenDEV/skills-ui) - 给 `skills.sh` 做了个原生 macOS 管理器，浏览、安装、整理不同 coding agents 的技能包更顺手。
 - 🔔 [Mind Keeper](https://github.com/IchenDEV/mind-keeper) - 一个 macOS 上的 AI 通知分拣助手，盯着通知中心、帮你判断轻重缓急，把该做的事从消息堆里捞出来。
@@ -24,12 +25,20 @@ hacker & creator
 
 ### 🧩 Agent 基础设施
 
+- 🛍️ [Agent Plugins Marketplace](https://github.com/IchenDEV/agent-plugin-mkt) - 一个开源 Agent 插件索引，自动发现并校验 Codex、Claude Code 和 Agent Plugins 仓库，同时提供 Web、REST API、MCP 与 agent-readable feeds。
+- 🪄 [Prompt Optimizer](https://github.com/IchenDEV/prompt-optimizer-plugins) - 一套可移植的模型专用提示词优化技能，同一份插件可以跑在 Codex、Claude Code 和 Agent Plugins 客户端里。
+- 🔗 [GB/Z 185 SDK](https://github.com/IchenDEV/gbz185-sdk) - 面向 GB/Z 185-2026 智能体互联标准的 TypeScript SDK 与参考运行时，覆盖身份、发现、交互、消息分发和工具调用。
 - 🖼️ [PetX](https://github.com/IchenDEV/petx) - Codex pet spritesheet atlas 的渲染框架，把同一套动画资源接到 Web、Canvas 和不同前端框架里复用。
 - 🔐 [Passka](https://github.com/IchenDEV/passka) - 想办法让 agent 用密钥这件事更靠谱：长期凭证留在 Keychain，agent 只拿短期 lease，访问全程可审计。
 - ⚡ [agentalk](https://github.com/IchenDEV/agentalk) - 把 `curl` 那种直给手感带到 agent world，让 A2A 协议在终端里也变得顺手。
 - ⛏️ [AI Mine](https://github.com/IchenDEV/aimine) - 一个 AI Agent 探索平台，把 RAG、知识图谱、记忆、技能和 MCP 串在一起，顺手拿来试 ReAct、Plan 和多专家协作这套玩法。
 - 🧠 [mem-x](https://github.com/IchenDEV/mem-x) - 一个自进化的 AI 记忆系统，把会话记忆、短期记忆和长期记忆串起来，让 agent 不只是会回答，还能慢慢长出“记性”。
 - 📁 [LarkFS](https://github.com/IchenDEV/larkfs) - 把飞书/Lark 变成本地文件系统，云端文档、消息和资源终于也能像文件一样被折腾。
+
+### 🛠️ 开发者工具
+
+- 🩺 [Codex Fix](https://github.com/IchenDEV/codex-fix) - 一个 macOS 上的 Codex 资源泄漏诊断与缓解工具；默认只读，任何文件或进程改动都需要显式确认。
+- 🧮 [Oxlint Cognitive Complexity](https://github.com/IchenDEV/oxlint-plugin-cognitive-complexity) - 给 Oxlint 补上认知复杂度检查，能按阈值找出 JavaScript 和 TypeScript 里过度复杂的函数。
 
 ### 🏘️ 多 Agent 实验
 
@@ -43,6 +52,7 @@ hacker & creator
 
 ### 🧠 知识与技能系统
 
+- 📚 [页脉](https://github.com/IchenDEV/yemai) - 一个本地优先的 AI 阅读记忆书架，用语音、OCR 和知识连接保存每一次阅读。
 - 🦸 [superman](https://github.com/IchenDEV/superman) - 一个持续扩建的视角型 Agent Skills 库，把顶级人物的思维方式蒸馏成能直接拿来用的认知插件。
 - 📖 [cold-start-2-ai-book](https://github.com/IchenDEV/cold-start-2-ai-book) - 用 GPT 写一本书的实验，看模型能不能从冷启动一路写到一本可读的成稿。
 
