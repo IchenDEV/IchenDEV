@@ -3,28 +3,31 @@
 hacker & creator
 
 - 📝 博客: [blogs.idevlab.dev](https://blogs.idevlab.dev/)
-- 🌐 主页: [IchenDEV.github.io](https://github.com/IchenDEV/IchenDEV.github.io)
+- 🌐 主页: [www.idevlab.dev](https://www.idevlab.dev/)
 
 ## 🚀 最近在折腾的项目
 
-### 🎮 一口气用 Fable 生成的小游戏和应用
+### 🎮 AI 小游戏与应用
 
-- 🕹️ [best-game](https://github.com/IchenDEV/best-game) - 单文件零依赖的霓虹竞技场生存射击游戏，有波次、Boss、成长构筑、存档、WebAudio 音效和合成 BGM。
+- 🎮 [AI 小游戏合集](https://github.com/IchenDEV/mini-game) - 五款独立浏览器小游戏的统一仓库，保留原项目历史，一次构建并发布到 GitHub Pages。
 - 🏠 [room-design](https://github.com/IchenDEV/room-design) - 网页版室内设计工作台：2D 户型编辑、3D 实时渲染、第一人称漫游、家具素材库和 IndexedDB 自动保存。
-- 🪂 [pubg-clone](https://github.com/IchenDEV/pubg-clone) - Three.js + TypeScript 的浏览器大逃杀原型：跳伞、搜刮、AI 对战、缩圈、空投、载具和程序化地图。
-- 🗺️ [pokemon-clone](https://github.com/IchenDEV/pokemon-clone) - Game Boy 风格怪物收集 JRPG Web 原型，把地图探索、回合制战斗、本地存档和 Vite/TypeScript 实现串起来。
 
 ### 🍎 macOS 与桌面应用
 
+- 🎨 [豆皮](https://github.com/IchenDEV/doubao-skin) - 给 macOS 版「豆包」与「豆包工作」换主题的工具，包含原生客户端、在线主题库和可验证的主题包。
+- 💻 [C2](https://github.com/IchenDEV/codeTwo) - 文档优先的 coding agent 工作台，用同一个 Rust 核心驱动桌面客户端、TUI 和远程 Web，并接入多种 coding CLI。
+- 🪁 [Kite](https://github.com/IchenDEV/kite) - 面向 macOS 26+ 的原生多协议下载器，用 SwiftUI、AppKit 和只监听本机的 `aria2-next` sidecar 实现。
 - 🐾 [PetX Desktop](https://github.com/IchenDEV/petx-desktop) - 一只本地优先的跨平台桌面伙伴，用 Tauri 和 PetX React 把陪伴、照料、关系记忆、宠物发现与本地导入放进透明桌面窗口。
-- 🎙️ [OpenType](https://github.com/IchenDEV/opentype) - 把 AI 语音输入塞进 macOS 菜单栏；按下说话、松开出字，还能接 OCR 和 LLM 做后处理。
+- 🎙️ [Utter](https://github.com/IchenDEV/utter) - 把 AI 语音输入放进 macOS 菜单栏；按下说话、松开出字，支持本地推理、智能格式化和语音指令。
 - 🧰 [SkillsUI](https://github.com/IchenDEV/skills-ui) - 给 `skills.sh` 做了个原生 macOS 管理器，浏览、安装、整理不同 coding agents 的技能包更顺手。
 - 🔔 [Mind Keeper](https://github.com/IchenDEV/mind-keeper) - 一个 macOS 上的 AI 通知分拣助手，盯着通知中心、帮你判断轻重缓急，把该做的事从消息堆里捞出来。
-- 🎧 [Podcast Transcript Studio](https://github.com/IchenDEV/podcast-transcript-studio) - 一个本地优先的播客转写工具，把订阅、下载、转写和整理串成一条流水线，所有数据都留在自己机器上。
 - 🗂️ [F5](https://github.com/IchenDEV/f5) - 一个本地 AI 工作台，用来跟 coding agents 对话、查看任务进展，并把每段会话保存成磁盘上的 Markdown 文件。
 
 ### 🧩 Agent 基础设施
 
+- 🔄 [AI-Native SDLC Skill](https://github.com/IchenDEV/sdlc-skill) - 把需求、上下文、执行、验证、审批和运维串成可连续推进的 Agent Skill，同时兼容 Codex 与 Claude Code。
+- 🧰 [C2 Community Plugins](https://github.com/IchenDEV/c2-plugins) - C2 的社区插件目录，只保存经校验且锁定到不可变提交的目录条目。
+- 🧩 [DSH Plugins](https://github.com/IchenDEV/dsh-plugins) - DeepSeek Harness 的仓外插件合集，覆盖飞书文档、iOS 模拟器、语音输入、Git worktree 等能力。
 - 🛍️ [Agent Plugins Marketplace](https://github.com/IchenDEV/agent-plugin-mkt) - 一个开源 Agent 插件索引，自动发现并校验 Codex、Claude Code 和 Agent Plugins 仓库，同时提供 Web、REST API、MCP 与 agent-readable feeds。
 - 🪄 [Prompt Optimizer](https://github.com/IchenDEV/prompt-optimizer-plugins) - 一套可移植的模型专用提示词优化技能，同一份插件可以跑在 Codex、Claude Code 和 Agent Plugins 客户端里。
 - 🔗 [GB/Z 185 SDK](https://github.com/IchenDEV/gbz185-sdk) - 面向 GB/Z 185-2026 智能体互联标准的 TypeScript SDK 与参考运行时，覆盖身份、发现、交互、消息分发和工具调用。
@@ -47,6 +50,7 @@ hacker & creator
 
 ### 🌌 体验实验
 
+- 🌐 [idevlab Home Page](https://github.com/IchenDEV/home-page) - 终端风格的个人主页，用 Three.js 呈现 3D 交互，并每天同步 GitHub 项目、贡献、动态和博客文章。
 - 🎙️ [VoiceCanvas](https://github.com/IchenDEV/voicecanvas) - 一个语音优先的图表工作台，把自然语言指令变成可验证的图结构更新，再用 Mermaid 画出来。
 - 🎭 [Mindscape](https://github.com/IchenDEV/mindscape) - 一个虚拟世界，偏向氛围、情绪和交互体验，把抽象感受做成可以进入的数字场景。
 
@@ -62,6 +66,11 @@ hacker & creator
   <img style="max-width: 48%;" src="https://github-readme-stats.vercel.app/api?username=IchenDEV&show_icons=true&count_private=true&hide=contribs" alt="GitHub Stats">
   <img style="max-width: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IchenDEV&layout=compact" alt="Most Used Language">
 </a>
+
+## 🗃️ 已归档项目
+
+- 🎮 [best-game](https://github.com/IchenDEV/best-game)、[pubg-clone](https://github.com/IchenDEV/pubg-clone) 和 [pokemon-clone](https://github.com/IchenDEV/pokemon-clone) - 独立仓库已归档，代码与历史已合并到 [AI 小游戏合集](https://github.com/IchenDEV/mini-game)。
+- 🎧 [Podcast Transcript Studio](https://github.com/IchenDEV/podcast-transcript-studio) - 本地优先的播客订阅、下载、转写与整理工具。
 
 ## 🛤 来时的路（Early Works）
 
